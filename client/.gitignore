@@ -30,9 +30,7 @@ yarn-error.log*
 
 # vercel
 .vercel
-/.idea
-qodana.yaml
 
 # typescript
 *.tsbuildinfo
-client/next-env.d.ts
+next-env.d.ts
